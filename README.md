@@ -6,5 +6,14 @@ I want to recreate this adventure but with a new modern twist to it.  Instead of
 
 The user would choose one of two...maybe more characters.  The characters have similar difficulty levels, but would give the user a reason to return to the game.  
 
+The format the users would give input would be by answering the questions provided.  Based on the answer the user input, they would get a certain outcome.  Either gaining/losing some of the food/money/gas.  
+
+Each character would start with different amount of 
+
+* health
+* food
+* money 
+* gas (if they have a car)
+
 My stretch goals would be to add animations so the user would get feedback to what is happening.  
 
