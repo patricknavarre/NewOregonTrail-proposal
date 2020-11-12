@@ -15,5 +15,7 @@ Each character would start with different amount of
 * money 
 * gas (if they have a car)
 
+The characters properties when then be changed based on the decisions they make.  I would use skills we learned doing the datasaur assignment.  
+
 My stretch goals would be to add animations so the user would get feedback to what is happening.  
 
